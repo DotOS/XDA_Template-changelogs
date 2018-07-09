@@ -91,13 +91,12 @@ Download [B]Gapps:[/B]
 [FONT="Comic Sans MS"]Aosp Extended[/FONT] And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/Team.png?raw=true[/IMG][SIZE="4"]
 [B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Founder/Core Developer
-[B][FONT="Comic Sans MS"]Ganesh Varma[/FONT][/B]  - Developer/Contributor
-[B][FONT="Comic Sans MS"]Kuber Sharma[/FONT][/B] - Developer/Contributor
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Contributor 
 [B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/Contributor
 [B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
 [SIZE="4"][B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Alexcbrookes[/FONT][/B]  - Arts & Wallpaper Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Alexc Brookes[/FONT][/B]  - Arts & Wallpaper Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Paul Petrov[/FONT][/B]  - Arts & UI Designer[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/cash.png[/IMG][/URL]
