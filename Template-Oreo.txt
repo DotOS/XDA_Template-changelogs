@@ -125,7 +125,7 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
 
 [SIZE="4"][B][U]Special thanks:[/U][/B]
-[B][FONT="Comic Sans MS"]Alexc Brookes[/FONT][/B]  - Arts & Wallpaper Designer[/SIZE]
+[B][FONT="Comic Sans MS"]Alexc Brookes[/FONT][/B]  - Arts & Wallpaper Designer
 [B][FONT="Comic Sans MS"]Paul Petrov[/FONT][/B]  - Arts & UI Designer[/SIZE]
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
@@ -165,7 +165,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] * current build status *
 [B]Current Stable Version:[/B] v2.5
-[B]Stable Release Date:[/B] 2018-09-13
+[B]Stable Release Date:[/B] 2018-09-14
 
 [B]Created[/B] 2018-04-12
 [B]Last Updated[/B] 2018-09-14
