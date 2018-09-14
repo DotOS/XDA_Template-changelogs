@@ -42,6 +42,8 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/Downloads.png?raw=true[/IMG]
 [INDENT][SIZE="3"][B][URL="https://download.droidontime.com/"]DotOS Downloads[/URL][/B]
 
+[B][URL="https://sourceforge.net/projects/dotos-2-x/files/"]SourceForge[/URL][/B]
+
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 
 [CENTER]Note : Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
