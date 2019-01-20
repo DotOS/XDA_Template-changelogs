@@ -1,0 +1,163 @@
+[CENTER][img]https://i.imgur.com/oodDehW.png[/img]
+
+[B]ROM Version:[/B] 3.0
+[B]Device: [/B] *device_name*
+[B]Maintainer:[/B] *your_name*
+[B]Build Status:[/B]  *Official_UnOfficial*
+
+
+[img]https://i.imgur.com/B8S75aQ.png[/img]
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+
+[img]https://i.imgur.com/uEXchte.png[/img]
+
+[SIZE="4"][B]DroidOnTime - is a custom Android firmware. It was launched with an aim to provide Unique user interface and Optimum performance that too keeping in mind the balance between performance and battery life. dotOS is based on Google's Android Open Source Project with Hand-picked goodies, innovative ideas and creative things which are added in the rom to enhance user experience![/B][/SIZE]
+
+
+[img]https://i.imgur.com/sMHMgDb.png[/img]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
+[SIZE="3"]Download the latest build and GApps
+Reboot to recovery 
+Make NAndroid backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build and GApps
+Reboot[/SIZE]
+
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
+[SIZE="3"]Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+
+Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+
+
+[img]https://i.imgur.com/mFXhfvV.png[/img]
+
+[INDENT][SIZE="3"][B][URL="https://download.droidontime.com"]DotOS Downloads[/URL][/B]
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+
+Note : Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps
+
+
+[img]https://i.imgur.com/w2QWqeI.png[/img]
+
+[HIDE][CODE][LIST]
+[U][B]STATUSBAR:[/B][/U]
+[*]Battery Icon Style
+[*]Clock and Date
+[*]Statusbar icons
+[*]Traffic indicators
+[*]Brightness Control
+[*]Show data disabled icon
+[*]Roaming Indicator
+[*]Battery Bar Customisation
+[*]Misc
+
+[U][B]Navigation Bar:[/B][/U]
+[*]Navbar modes(Stock, Smartbar, Fling)
+[*]Smartbar tweaks
+[*]Navbar Pulse
+[*]Fling mode gestures
+[*]All DUI nav tweaks
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[*]Brightness slider toggle
+[*]Titles visibility
+[*]Tiles track accent color toogle
+[*]Quick pulldown
+[*]Smart pulldown
+[*]Rows and columns tweaks
+
+[U][B]RECENTS:[/B][/U]
+[*]Memory bar
+[*]Immersive recents
+[*]Clear all fab
+[*]Clear all fab location
+
+[U][B]LOCKSCREEN:[/B][/U]
+[*]Double-tap to sleep
+[*]Lockscreen Tuner
+[*]Charging info
+[*]Media cover art toggle
+[*] Lockscreen Visualizer
+[*] New Set Lockscreen Clocks
+[*]Face auto unlock
+[*]Fingerprint Authentication Vibration
+[*]Lockscreen Tuner
+[*]hide Clock and date widget
+[*]Hide status bar items
+
+[U][B]BUTTONS:[/B][/U]
+[*]Powermenu tweaks
+[*]H/W keys customisation
+[*]Volume button tweaks
+
+[U][B]MISC:[/B][/U]
+[*]Launch music app on headset connection
+[*]Battery light charging customisations
+[*]App Ops
+
+[U][B]DotUICenter:[/B][/U]
+[*]Accent Color Manager
+[*]Qs panel Customisation
+[*]Misc features
+[/LIST][/CODE][/HIDE]
+
+
+[img]https://i.imgur.com/y22IQNX.png[/img]
+[SIZE="4"][INDENT][SIZE="4"][B][COLOR="#2ba851"]D[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR]team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]JDC Team[/FONT]
+[FONT="Comic Sans MS"]Aosp Extended[/FONT]
+[FONT="Comic Sans MS"]Dirty Unicorns[/FONT] 
+[FONT="Comic Sans MS"]ABC[/FONT] 
+And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
+
+
+[img]https://i.imgur.com/yCdz6q0.png[/img]
+
+[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Founder/Core Developer
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Project Co-ordinator
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/ Core Developer
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
+[B][FONT="Comic Sans MS"]Eyüp Can Yılmaz (EypCnn) [/FONT][/B]  - Thread Designer
+[B][FONT="Comic Sans MS"]Alexc Brookes[/FONT][/B]  - Arts & Wallpaper Designer
+[B][FONT="Comic Sans MS"]Paul Petrov[/FONT][/B]  - Arts & UI Designer
+
+[U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
+[URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/cash.png[/IMG][/URL]
+[SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed][FONT="Comic Sans MS"]Liked The ROm? Want to Help Us? Then gift us some credits[/FONT][/COLOR][/URL][/B][/SIZE]
+
+
+[img]https://i.imgur.com/PQg4tqS.png[/img]
+[SIZE="4"][URL="https://github.com/DotOS"]
+[SIZE="5"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/dotOS-Devices"]dotOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+[B][URL="http://t.me/dotOS"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/dotOSchannel"]Telegram Channel[/URL][/B]
+[B][URL="www.droidontime.com"]Website[/URL][/B][/SIZE][/CENTER]
+
+
+[B][U]Contributors:[/U][/B] *your_name*
+[B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
+
+[B]ROM OS Version:[/B] 9.x P
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] *current_build_status*
+[B]Current Stable Version:[/B] v3.0
+[B]Stable Release Date:[/B] 2019-01-20
+
+[B]Created[/B] 2019-01-20
+[B]Last Updated[/B] 2019-01-20
