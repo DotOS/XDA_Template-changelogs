@@ -4,7 +4,7 @@
 [B]ROM Version:[/B] 3.0
 [B]Device: [/B] * code name *
 [B]Maintainer:[/B] * your name *
-[B]Build Status:[/B]  Official or Unofficial
+[B]Build Status:[/B]  Unofficial
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/xda/disclaimer.png?raw=true[/IMG]
 
@@ -162,7 +162,7 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
 As soon as the problem occurs, take a logcat! 
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
-[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/st4.png[/IMG][/CENTER]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/pie_dot_logo.png?raw=true[/IMG][/CENTER]
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE=3][B]dotOS, ROM for * your device* [/B][/SIZE]
 
