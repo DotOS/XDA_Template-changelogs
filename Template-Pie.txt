@@ -42,7 +42,7 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/xda/downloads.png?raw=true[/IMG]
 [INDENT][SIZE="3"][B][URL="https://download.droidontime.com/"]DotOS Downloads[/URL][/B]
 
-[B][URL="https://sourceforge.net/projects/dotos-2-x/files/"]SourceForge[/URL][/B]
+[B][URL="https://sourceforge.net/projects/dotos-downloads/files/dotp/<devicecodename>/"]SourceForge[/URL][/B]
 
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 
@@ -134,7 +134,7 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Founder/Core Developer
 [B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Project Co-ordinator
 [B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI Developer/ Core Developer
-[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer [/SIZE]
+[B][FONT="Comic Sans MS"]Hari Ambadi[/FONT][/B]  - Core GFX/Visual Designer
 [B][FONT="Comic Sans MS"]Sipun Kumar[/FONT][/B]  - Developer/Maintainer [/SIZE]
 
 [SIZE="4"][B][U]Special thanks:[/U][/B]
