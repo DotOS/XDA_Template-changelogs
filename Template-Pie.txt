@@ -1,7 +1,7 @@
 [CENTER][IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/header_logo_50.png?raw=true[/IMG]
 [SIZE="5"][B] " [color="#f5b500"]#[/COLOR][color="#2ba851"]Droid[/COLOR][color="#e34036"]On[/COLOR][color="#3b85ed"]Time[/COLOR] " [/SIZE][/B]
 
-[B]ROM Version:[/B] 3.0
+[B]ROM Version:[/B] 3.1
 [B]Device: [/B] * code name *
 [B]Maintainer:[/B] * your name *
 [B]Build Status:[/B]  Unofficial
@@ -42,7 +42,7 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/xda/downloads.png?raw=true[/IMG]
 [INDENT][SIZE="3"][B][URL="https://download.droidontime.com/"]DotOS Downloads[/URL][/B]
 
-[B][URL="https://sourceforge.net/projects/dotos-downloads/files/dotp/<devicecodename>/"]SourceForge[/URL][/B]
+[B][URL="https://www.pling.com/u/dotos"]SourceForge[/URL][/B]
 
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 
@@ -62,6 +62,11 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]Volte Icon Toggle
 [*]Wake up on charge plugged/unplugged
 [*]Show DotOS logo on statusbar
+[*]Network Traffic Indicator for Notch'd Devices
+[*]Statusbar Brightness Control
+[*]Option to Display Data Disabled Indicator Icon
+[*]Android Q Style Seekbar in Media Notification
+[*]Added Android Q styled battery icon on statusbar
 
 [U][B]Navigation Bar:[/B][/U]
 [*]Navbar modes(Stock, Smartbar, Fling)
@@ -69,6 +74,8 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]Navbar Pulse
 [*]Fling mode gestures
 [*]All DUI nav tweaks
+[*]Invert navbar layout
+[*]Pixel Navbar Animation
 
 [U][B]QUICK SETTINGS:[/B][/U]
 [*]Brightness slider toggle
@@ -77,9 +84,16 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]Qs panel Opacity
 [*]Vibrate when touching QS tiles
 [*]Rows and columns tweaks
+[*]Always on Display Tile
+[*]Ambient Display Tile
+[*]Compass Tile
+[*]Expanded Desktop Tile
+[*]Smart Pixels Tile
+[*]Google Sound Tile
 
 [U][B]RECENTS:[/B][/U]
 [*]Toggle to switch between pie and oreo recents
+[*]Recents/Overview Icon pack Support
 
 [U][B]LOCKSCREEN:[/B][/U]
 [*]Double-tap to sleep
@@ -94,6 +108,11 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]Ambient Music Ticker
 [*]Lockscreen visualizer
 [*]Lockscreen Weather
+[*]Always on Display while Charging
+[*]Ambient Music Ticker on lockscreen Improvements
+[*]Hide Lockscreen Items
+[*]Lockscreen Clocks/Dates Styles
+[*]Android Q text Clock in Lockscreen.
 
 [U][B]BUTTONS:[/B][/U]
 [*]Powermenu tweaks
@@ -106,11 +125,13 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]3 finger swipe Screenshot guesture
 [*]Battery light charging customisations
 [*]Toast app icon switch
+Expanded Volume panel
 
 [U][B]System wide themes:[/B][/U]
 [*]Accent Color Manager - Fruity pebbles
 [*]Qs panel Customisation
 [*]Neo theme
+[*]FontService
 
 [U][B]Extras:[/B][/U]
 [*]Ablity to reset Battery Stats
@@ -119,8 +140,16 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]Set ringtone for each sim slot
 [*]Switch to disable/enable Dashboard suggestions
 [*]Digital Wellbeing Preinstalled
-
-
+[*]InCall Vibrations 
+[*]Pocket Lock Feature
+[*]Suspend Actions
+[*]Battery Saving mode for location
+[*]Unlink Media/Notifications volume
+[*]Smart Pixels Feature
+[*]Privacy Guard
+[*]Per app thermal Controller
+[*]Expanded Desktop Feature
+[*]Android Q Style Interface in Settings
 
 [/LIST][/CODE][/HIDE]
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/xda/credits.png?raw=true[/IMG]
@@ -152,7 +181,6 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 [COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
 [B][SIZE="3"][B][SIZE="4"][URL="https://github.com/dotOS-Devices"]dotOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/g%2B.png[/IMG]
-[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
 [IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/telegram.png[/IMG]
 [B][URL="http://t.me/dotOS"]Telegram Group[/URL][/B]
 [B][URL="http://t.me/dotOSchannel"]Telegram Channel[/URL][/B]
@@ -177,8 +205,5 @@ As soon as the problem occurs, take a logcat!
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] * current build status *
-[B]Current Stable Version:[/B] v3.0
-[B]Stable Release Date:[/B] 2019-02-15
-
-[B]Created[/B] 2019-02-15
-[B]Last Updated[/B] 2019-02-15
+[B]Current Stable Version:[/B] v3.1
+[B]Stable Release Date:[/B] 03-07-2019
