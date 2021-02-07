@@ -130,7 +130,7 @@ Automatically temporary disable night light while using FOD (toggle)
 
 New Theme Manager
 
--Overlays based Accent Picker
+Overlays based Accent Picker
 
 Material Palette Accent Picker
 
