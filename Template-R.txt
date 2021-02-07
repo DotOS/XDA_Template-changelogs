@@ -1,4 +1,4 @@
-[CENTER][IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/header_logo_50.png?raw=true[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/DotOS/resources_drawables/master/xda-banners_5/banner_dotOS.png[/IMG]
 
 [SIZE="5"][B] " [color="#f5b500"]#[/COLOR][color="#2ba851"]Droid[/COLOR][color="#e34036"]On[/COLOR][color="#3b85ed"]Time[/COLOR] " [/SIZE][/B]
 
@@ -130,7 +130,7 @@ Automatically temporary disable night light while using FOD (toggle)
 
 New Theme Manager
 
--Overlays based Accent Picker
+Overlays based Accent Picker
 
 Material Palette Accent Picker
 
@@ -250,7 +250,7 @@ As soon as the problem occurs, take a logcat!
 
 and do not forget to send it to us  :stuck_out_tongue_winking_eye:
 
-[IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/header_logo_50.png?raw=true[/IMG][/CENTER]
+[IMG]https://raw.githubusercontent.com/DotOS/resources_drawables/master/xda-banners_5/banner_dotOS.png[/IMG][/CENTER]
 
 [B][U][SIZE="4"] XDA DevDB Information [/SIZE][/U][/B]
 
