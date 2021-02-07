@@ -1,0 +1,144 @@
+[CENTER][IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/header_logo_50.png?raw=true[/IMG]
+[SIZE="5"][B] " [color="#f5b500"]#[/COLOR][color="#2ba851"]Droid[/COLOR][color="#e34036"]On[/COLOR][color="#3b85ed"]Time[/COLOR] " [/SIZE][/B]
+
+[B]ROM Version:[/B] 5.0
+[B]Device: [/B] * code name *
+[B]Maintainer:[/B] * your name *
+[B]Build Status:[/B]  Unofficial
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_discl.png?raw=true[/IMG]
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+[SIZE="3"]"This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_about.png?raw=true[/IMG]
+
+[SIZE="4"]dotOS is an Android ROM which focuses on performance and stability. We focus on making our rom look and feel great without struggling on Performance and Battery! So that one can get most out of his/her device.....[/SIZE]
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_inst.png?raw=true[/IMG]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Make nandroid backup (Not Necessary)
+Wipe System, Data, Cache, Dalvik
+Flash the latest build and GApps
+Reboot[/SIZE]
+
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+
+Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_downlods.png?raw=true[/IMG]
+[INDENT][SIZE="3"][B][URL="https://download.droidontime.com/"]DotOS Downloads[/URL][/B]
+
+[B][URL="https://www.pling.com/u/dotos"]SourceForge[/URL][/B]
+
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+
+[CENTER] Note: Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_features.png?raw=true[/IMG]
+[HIDE][CODE][LIST]
+New and refreshed UI
+New Customization app (previous named as DotExtras)
+Accent Overlay & RGB Picker
+Edge Lightning
+Battery Styles
+Battery Percentage Styles
+Clock Customization
+Traffic Indicator
+Battery Light Customizations
+QS Tiles title toggle
+QS Tiles style toggle (AOSP & accent)
+QS Rows & Columns Customization
+New FOD Icon & Animation picker with previews
+FOD recognition color picker
+Screen-Off FOD
+Automatically temporary disable night light while using FOD (toggle)
+New Theme Manager
+-Overlays based Accent Picker
+Material Palette Accent Picker
+Smart Accent Picker (find automatically proper shade of accent for the other theme; if you apply custom accent for dark theme, press Smart Accent Picker and it will find a good shade to use for light theme and vice-versa)
+Fonts, Icon Packs and Icon Shapes picker
+Other Extra Features
+Hold power to torch
+Double tap on statusbar and lockscreen to sleep
+Double tap while sleeping to open doze (ambient display)
+Quick Screenshot (3 fingers gesture)
+Volume Panel position switch (right or left)
+Navigation bar pill size customization (hide, stock, medium, large)
+Pocket Mode - avoid scree touches while the phone is in your pocket
+Use Biometrics on first boot (unavailable for encrypted users)
+Lockscreen Media toggle
+Built-in Launcher Grid control
+MicroG support
+
+[/LIST][/CODE][/HIDE]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_credits.png?raw=true[/IMG]
+[SIZE="4"][INDENT][SIZE="4"][B][COLOR="#2ba851"]D[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR]team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]Pixel Experience[/FONT]
+
+[FONT="Comic Sans MS"]Dirty Unicorns[/FONT] 
+And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_team.png?raw=true[/IMG][SIZE="4"]
+
+[B][FONT="Comic Sans MS"]Mohan CM[/FONT][/B] - Founder/Core Developer
+[B][FONT="Comic Sans MS"]Sam Grande[/FONT][/B] - UI Developer/Project Co-ordinator
+[B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI, UX Developer/ Core Developer
+[B][FONT="Comic Sans MS"]Sipun Kumar[/FONT][/B]  - Developer/Maintainer [/SIZE]
+
+[SIZE="4"][B][U]Special thanks:[/U][/B]
+[B][FONT="Comic Sans MS"]Aswin[/FONT][/B]  - Graphics Designer
+[B][FONT="Comic Sans MS"]ShreeJoy[/FONT][/B]  - Web Backend Developer
+[B][FONT="Comic Sans MS"]Manish Bajpai[/FONT][/B]  - Web Frontend Developer[/SIZE]
+
+
+[U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
+[URL="https://www.paypal.me/MOHANCM"][IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/cash.png?raw=true[/IMG][/URL]
+[SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed][FONT="Comic Sans MS"]Liked The ROm? Want to Help Us? Then gift us some credits[/FONT][/COLOR][/URL][/B][/SIZE]
+
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_sources.png?raw=true[/IMG]
+[SIZE="4"][URL="https://github.com/DotOS"]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/github.png?raw=true[/IMG]
+[SIZE="5"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR]
+[COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/dotOS-Devices"]dotOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template-changelogs/master/IMGs/O%20Imgs%20New/g%2B.png[/IMG]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/telegram.png?raw=true[/IMG]
+[B][URL="http://t.me/dotOS"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/dotOSchannel"]Telegram Channel[/URL][/B]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners/web.png?raw=true[/IMG]
+[B][URL="www.droidontime.com"]Website[/URL][/B][/SIZE]
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
+[IMG]https://github.com/DotOS/resources_drawables/blob/master/dotp/header_logo_50.png?raw=true[/IMG][/CENTER]
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]dotOS, ROM for * your device* [/B][/SIZE]
+
+[B][U]Contributors:[/U][/B] * Maintainer name(s) *
+[B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
+[B]Kernel Source:[/B]: * device kernel source link *
+
+[B]ROM OS Version:[/B] 11.x Android R
+[B]ROM Kernel:[/B] * device kernel version *
+[B]ROM Firmware Required:[/B] Must be On latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] * current build status *
+[B]Current Stable Version:[/B] v5.0
+[B]Stable Release Date:[/B] 07-02-2021
