@@ -4,7 +4,7 @@
 
 
 
-[B]ROM Version:[/B] 5.0
+[B]ROM Version:[/B] 5.0.1
 
 [B]Device: [/B] * code name *
 
@@ -84,7 +84,7 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 
 
 
-[B][URL="https://sourceforge.net/projects/dotos-downloads/files/dot11/"]SourceForge[/URL][/B]
+[B][URL="https://www.droidontime.com/devices"]www.droidontime.com[/URL][/B]
 
 
 
@@ -92,9 +92,8 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_features.png?raw=true[/IMG]
 
-[CENTER]
 
-[HIDE][CODE][LIST]
+[HIDE][CODE]
 
 New and refreshed UI
 
@@ -113,6 +112,8 @@ Clock Customization
 Traffic Indicator
 
 Battery Light Customizations
+
+QS data usage info
 
 QS Tiles title toggle
 
@@ -162,9 +163,8 @@ Built-in Launcher Grid control
 
 MicroG support
 
-[CENTER]
 
-[/LIST][/CODE][/HIDE]
+[/CODE][/HIDE]
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_credits.png?raw=true[/IMG]
 
@@ -190,7 +190,7 @@ And all other open source Devs/Teams.[/B][/SIZE][/INDENT][/SIZE]
 
 [B][FONT="Comic Sans MS"]Iacob Ionut[/FONT][/B]  - UI, UX Developer/ Core Developer
 
-[B][FONT="Comic Sans MS"]Sipun Kumar[/FONT][/B]  - Developer/Maintainer [/SIZE]
+[B][FONT="Comic Sans MS"]Sipun Kumar[/FONT][/B]  - Developer/Maintainer
 
 [B][FONT="Comic Sans MS"]Shreehari Vaasistha L[/FONT][/B]  - Developer/Maintainer [/SIZE]
 
@@ -254,7 +254,7 @@ and do not forget to send it to us  :stuck_out_tongue_winking_eye:
 
 [B][U][SIZE="4"] XDA DevDB Information [/SIZE][/U][/B]
 
-[SIZE=3][B]dotOS, ROM for * your device* [/B][/SIZE]
+[SIZE=3][B]dotOS, ROM for * your device name* [/B][/SIZE]
 
 
 
@@ -262,7 +262,7 @@ and do not forget to send it to us  :stuck_out_tongue_winking_eye:
 
 [B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
 
-[B]Kernel Source:[/B]: * device kernel source link *
+[B]Kernel Source:[/B] * device kernel source link *
 
 
 
@@ -280,6 +280,6 @@ and do not forget to send it to us  :stuck_out_tongue_winking_eye:
 
 [B]Status:[/B] * current build status *
 
-[B]Current Stable Version:[/B] v5.0
+[B]Current Stable Version:[/B] v5.0.1
 
-[B]Stable Release Date:[/B] 07-02-2021
+[B]Stable Release Date:[/B] xx-xx-20xx
