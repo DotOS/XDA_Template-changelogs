@@ -1,16 +1,10 @@
 {
-"changelog":[
-        {
-          "miscTitle":"Something Useful",
-          "miscSummary":"Testing scripts",
-          "settingsTitle":"Refreshed UI",
-          "settingsSummary":"",
-          "securityTitle":"",
-          "securitySummary":"",
-          "systemTitle":"",
-          "systemSummary":""
-        }
-      ]
-    }
-  ]
+  "miscTitle": "NEW UI",
+  "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+  "settingsTitle": "",
+  "settingsSummary": "",
+  "securityTitle": "",
+  "securitySummary": "Updated to MAY Security Patches (r36)",
+  "systemTitle": "",
+  "systemSummary": "NEW STUFFS"
 }
