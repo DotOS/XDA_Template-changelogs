@@ -1,10 +1,10 @@
 {
-  "miscTitle": "NEW UI",
-  "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
-  "settingsTitle": "",
-  "settingsSummary": "",
-  "securityTitle": "",
-  "securitySummary": "Updated to MAY Security Patches (r36)",
-  "systemTitle": "",
-  "systemSummary": "NEW STUFFS"
+  "miscTitle":"",
+  "miscSummary":"",
+  "settingsTitle":"Huge revamp",
+  "settingsSummary":"• New dashboard look\n• Fixed avatar icon on dashboard\n• Implemented Silky UI\n• Multiple sections revamped to match guidelines\n• AboutDevice card revamped\n• Revamped Customizations app\n...\n• Full changelog : https://changelogs.droidontime.com/",
+  "securityTitle":"",
+  "securitySummary":"• Moved to user builds\n• Signature changed to dot's own keys",
+  "systemTitle":"User Interface",
+  "systemSummary":"• Implemented MonetWannabe wallpaper-based theme engine\n• Redesigned QSPanel\n• Added Applock\n...\n• Full changelog : https://changelogs.droidontime.com/"
 }
