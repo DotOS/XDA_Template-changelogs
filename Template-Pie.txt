@@ -125,7 +125,7 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 [*]3 finger swipe Screenshot guesture
 [*]Battery light charging customisations
 [*]Toast app icon switch
-Expanded Volume panel
+[*]Expanded Volume panel
 
 [U][B]System wide themes:[/B][/U]
 [*]Accent Color Manager - Fruity pebbles
