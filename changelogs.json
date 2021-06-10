@@ -1,10 +1,10 @@
 {
-  "miscTitle":"",
-  "miscSummary":"",
-  "settingsTitle":"Huge revamp",
-  "settingsSummary":"• New dashboard look\n• Fixed avatar icon on dashboard\n• Implemented Silky UI\n• Multiple sections revamped to match guidelines\n• AboutDevice card revamped\n• Revamped Customizations app\n...\n• Full changelog : https://changelogs.droidontime.com/",
-  "securityTitle":"",
-  "securitySummary":"• Moved to user builds\n• Signature changed to dot's own keys",
-  "systemTitle":"User Interface",
-  "systemSummary":"• Implemented MonetWannabe wallpaper-based theme engine\n• Redesigned QSPanel\n• Added Applock\n...\n• Full changelog : https://changelogs.droidontime.com/"
+  "miscTitle":"New features",
+  "miscSummary":"• Screen-off animations\n• Fixed lockscreen visualizer\n• Improved Wallpaper Section inside Customizations.", 
+  "settingsTitle":"Small layout fixes",
+  "settingsSummary":"• Now Display size and Font size sections can be scrolled without issue.",
+  "securityTitle":"June Buletin",
+  "securitySummary":"• New June Security Patch merged",
+  "systemTitle":"MonetWannabe fixes",
+  "systemSummary":"• Fixes for 3rd party apps (including Solid Explorer) "
 }

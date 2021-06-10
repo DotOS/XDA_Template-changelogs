@@ -2,7 +2,7 @@
 
 [SIZE=7][B] " [COLOR=#f5b500]#[/COLOR][COLOR=#2ba851]Droid[/COLOR][COLOR=#e34036]On[/COLOR][COLOR=#3b85ed]Time[/COLOR] " [/B][/SIZE]
 
-[B]ROM Version:[/B] 5.1
+[B]ROM Version:[/B] 5.1.1
 [B]Device: [/B] codename
 [B]Maintainer:[/B] name
 [B]Build Status:[/B]  UNOFFICIAL
@@ -51,7 +51,7 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_downlods.png?raw=true[/IMG]
 
-[B][URL='https://https://www.droidontime.com/hotdog']Website[/URL][/B] - [URL]https://www.droidontime.com/hotdog[/URL]
+[B][URL='https://https://www.droidontime.com/devices']Website[/URL][/B] - [URL]https://www.droidontime.com/devices[/URL]
 
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_features.png?raw=true[/IMG]
@@ -113,5 +113,5 @@ and do not forget to send it to us  😜
 
 [B][U]Version Information[/U]
 Status:[/B] STABLE
-[B]Current Stable Version:[/B] v5.1
-[B]Stable Release Date:[/B] 30-05-2021
+[B]Current Stable Version:[/B] v5.1.1
+[B]Stable Release Date:[/B] 10-06-2021
