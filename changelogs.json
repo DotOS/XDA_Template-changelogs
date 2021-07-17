@@ -1,10 +1,10 @@
 {
   "miscTitle":"New features",
-  "miscSummary":"• Screen-off animations\n• Fixed lockscreen visualizer\n• Improved Wallpaper Section inside Customizations.", 
+  "miscSummary":"• Added colored statusbar icons toggle \n• Added Programming IDE lockscreen clock \n• Added Samsung Lockscreen clock \n• Added dual tone clock.", 
   "settingsTitle":"Small layout fixes",
-  "settingsSummary":"• Now Display size and Font size sections can be scrolled without issue.",
-  "securityTitle":"June Buletin",
-  "securitySummary":"• New June Security Patch merged",
-  "systemTitle":"MonetWannabe fixes",
-  "systemSummary":"• Fixes for 3rd party apps (including Solid Explorer) "
+  "settingsSummary":"• Face Unlock improvements.",
+  "securityTitle":"July Bulletin",
+  "securitySummary":"• July Security Patch merged",
+  "systemTitle":"Locksceen clock fixes",
+  "systemSummary":"• Fixes for Lockscreen clock when qspanel is expanded\n• fixed Theme reset after reboot\n• privacy indicators are back\n• Merged translations"
 }

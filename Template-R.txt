@@ -2,7 +2,7 @@
 
 [SIZE=7][B] " [COLOR=#f5b500]#[/COLOR][COLOR=#2ba851]Droid[/COLOR][COLOR=#e34036]On[/COLOR][COLOR=#3b85ed]Time[/COLOR] " [/B][/SIZE]
 
-[B]ROM Version:[/B] 5.1.1
+[B]ROM Version:[/B] 5.1.2
 [B]Device: [/B] codename
 [B]Maintainer:[/B] name
 [B]Build Status:[/B]  UNOFFICIAL
@@ -113,5 +113,5 @@ and do not forget to send it to us  😜
 
 [B][U]Version Information[/U]
 Status:[/B] STABLE
-[B]Current Stable Version:[/B] v5.1.1
-[B]Stable Release Date:[/B] 10-06-2021
+[B]Current Stable Version:[/B] v5.1.2
+[B]Stable Release Date:[/B] 17-07-2021
