@@ -2,7 +2,7 @@
 
 [SIZE=7][B] " [COLOR=#f5b500]#[/COLOR][COLOR=#2ba851]Droid[/COLOR][COLOR=#e34036]On[/COLOR][COLOR=#3b85ed]Time[/COLOR] " [/B][/SIZE]
 
-[B]ROM Version:[/B] 5.1.3
+[B]ROM Version:[/B] 5.2.1
 [B]Device: [/B] codename
 [B]Maintainer:[/B] name
 [B]Build Status:[/B]  UNOFFICIAL
@@ -45,8 +45,6 @@ Flash the latest build
 Wipe Cache
 Reboot[/SIZE]
 
-If you're coming from Stock OxygenOS - [URL='https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-dotos-aosp.4285269/post-85108711']check here[/URL]
-
 Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
 
 [IMG]https://github.com/DotOS/resources_drawables/blob/master/xda-banners_5/banner_downlods.png?raw=true[/IMG]
@@ -74,10 +72,6 @@ Note: GApps only has to be flashed once whereas Magisk/Su is to be flashed every
 
 [SIZE=4][B][FONT=Comic Sans MS]Mohan CM[/FONT][/B] - Founder/Core Developer
 [B][FONT=Comic Sans MS]Iacob Ionut[/FONT][/B]  - UI, UX Developer/ Core Developer
-[B][FONT=Comic Sans MS]Sipun Kumar[/FONT][/B]  - Developer/Maintainer
-
-[SIZE=4][B][U]Special thanks:[/U]
-[FONT=Comic Sans MS]Manish Bajpai[/FONT][/B]  - Web Developer[/SIZE]
 
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U][/SIZE]
@@ -113,5 +107,5 @@ and do not forget to send it to us  😜
 
 [B][U]Version Information[/U]
 Status:[/B] STABLE
-[B]Current Stable Version:[/B] v5.1.3
-[B]Stable Release Date:[/B] 08-08-2021
+[B]Current Stable Version:[/B] v5.2.1
+[B]Stable Release Date:[/B] 21-11-2021
