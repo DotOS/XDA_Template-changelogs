@@ -1,10 +1,10 @@
 {
-  "miscTitle": "",
-  "miscSummary": "\u2022 Updated APN Settings",
+  "miscTitle": "Stabilty Fixes",
+  "miscSummary": "\u2022 Fixed Navigation Features disabled after turning on Game Mode",
   "settingsTitle": "OTA Fixes",
-  "settingsSummary": "\u2022 Fixed a random incompatibility while trying to install a new update via SystemUpdates.",
-  "securityTitle": "August Bulletin",
-  "securitySummary": "\u2022 August Security Patch merged",
+  "settingsSummary": "\u2022 Updated OTA config to new API.",
+  "securityTitle": "November Bulletin",
+  "securitySummary": "\u2022 November Security Patch merged",
   "systemTitle": "UX Fixes",
-  "systemSummary": "\u2022 Fixed an issue with SystemUI when the phone is connected to a vpn or the internet is monitorized and Media is playing while in landscape mode."
+  "systemSummary": "\u2022 Fixed QS title inconsistent padding issues."
 }
