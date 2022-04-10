@@ -1,10 +1,10 @@
 {
-  "miscTitle": "Stabilty Fixes",
-  "miscSummary": "\u2022 Fixed Navigation Features disabled after turning on Game Mode",
-  "settingsTitle": "OTA Fixes",
-  "settingsSummary": "\u2022 Updated OTA config to new API.",
-  "securityTitle": "November Bulletin",
-  "securitySummary": "\u2022 November Security Patch merged",
-  "systemTitle": "UX Fixes",
-  "systemSummary": "\u2022 Fixed QS title inconsistent padding issues."
+	"miscTitle": "Misc improvements",
+	"miscSummary": "\u2022 Added SELinux info in Settings.\n\u2022 Added missing Quick Panels for Bluetooth and Mobile data.\n\u2022 Added Color balance control under Display > Colors.",
+	"settingsTitle": "Settings UI Fixes",
+	"settingsSummary": "\u2022 Enabled multi-line text on dashboard.\n\u2022 System Updates can now be launched from Setting's Dashboard",
+	"securityTitle": "April Bulletin",
+	"securitySummary": "\u2022 April Security Patch merged",
+	"systemTitle": "Improved System stability",
+	"systemSummary": "\u2022 Fixed waklocks on lockscreen.\n\u2022 Added posibility to expand Volume Panel to quickly access and control volume sliders.\n\u2022 Fixed 3-Button Navigation."
 }
